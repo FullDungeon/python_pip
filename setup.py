@@ -10,7 +10,7 @@ setup(
     version='2021.12.30.0',
     author='FullDungeon',
     author_email='ddd.dungeon@gmail.com',
-    description='Пакет для управления проектами',          # краткое описание
+    description='Python pip package template',             # краткое описание
     long_description=readme,                               # полное опсиание (файл readme.md)
     url='https://github.com/FullDungeon/python_pip',
     classifiers=[
