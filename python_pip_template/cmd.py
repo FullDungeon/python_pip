@@ -33,7 +33,6 @@ def cmd_help():
 
     print(Style.BRIGHT + Fore.RED + '-h  --help        ', end=''); print('how to use it', end='\n\n')
     print(Style.BRIGHT + Fore.RED + '-v  --version     ', end=''); print('package version', end='\n\n')
-    print(Style.BRIGHT + Fore.RED + '-l  --list        ', end=''); print('list of available projects in current catalog and its subcatalogs', end='\n\n')
     print(Style.BRIGHT + Fore.RED + '-d  --do          ', end=''); print('command from main.py', end='\n\n')
 
 
